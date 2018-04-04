@@ -1,3 +1,8 @@
+# This fork is only here to create a NuGet package for Grammatica. 
+
+Questions, bugs and pull requests belong in the upstream repository.
+ 
+Upstream readme: 
 GRAMMATICA README
 =================
 
